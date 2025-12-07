@@ -1,4 +1,4 @@
-### Olá, eu sou o [Seu Nome]! 👋
+### Olá, eu sou o Marcos! 👋
 
 🚀 **Desenvolvedor Full Stack | Java & Vue.js**
 
@@ -24,14 +24,6 @@ Sou um desenvolvedor apaixonado por transformar problemas complexos em soluçõe
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 📊 Estatísticas no GitHub
-
-![Estatísticas do Github](https://github-readme-stats.vercel.app/api?username=SrMarxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SrMarxx&layout=compact&langs_count=7&theme=dracula)
 
 ---
 
